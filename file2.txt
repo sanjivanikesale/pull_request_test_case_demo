@@ -1,1 +1,2 @@
 File2 created from web 
+Changes made from second branch to demonstrate conflict
