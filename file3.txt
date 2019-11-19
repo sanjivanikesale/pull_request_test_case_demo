@@ -1,2 +1,1 @@
 File3 created from GitHub
-This will not led to merge conflict because of same content
